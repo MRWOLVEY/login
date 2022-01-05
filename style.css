@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: rgba(102, 128, 183, 0.938);
+}
+
+.brdr{
+    border: black 1px solid;
+}
+
+form{
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    padding:15px;
+    height: 80vh;
+}
+
+.wi{
+    height: 72px;
+    border-radius: 38px;
+}
+
+.form{
+    position: relative;
+}
+.icon{
+    position: absolute;
+    top:8px;
+    left:20px;
+    opacity: 0.5;
+}
